@@ -10,9 +10,9 @@
  
 * 📊 Consultor de Negócios - Business Consultant.
  
-* 👨🏻‍💻 Analista de Inteligência de Negócios (BI).
+* 👨🏻‍💻 Analista de Inteligência de Negócios - Business Intelligence(BI).
  
-* 👨🏻‍💻 Analista de Dados.
+* 👨🏻‍💻 Analista de Dados - Data Analyst.
 
 ## Skills 👩‍💻
 
