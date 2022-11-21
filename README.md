@@ -1,10 +1,10 @@
-# **Hi, I'm Leandro** 👩‍💻 👋 
+# **Hi, I'm Leandro** 👨🏻‍💻👋 
 
 ## Who am I? 
 
 * 🧑🏻‍🎓 Técnico em Informática.
 * 🧑🏻‍🎓 Técnologo em Banco de Dados.
-* 👩‍💻 Ciência de Dados(Andamento).
+* 👨🏻‍💻 Ciência de Dados(Andamento).
 * 📊 Consultor de Negócios.
 * 👨🏻‍💻 Analista de Inteligência de Negócios (BI).
 * 👨🏻‍💻 Analista de Dados.
