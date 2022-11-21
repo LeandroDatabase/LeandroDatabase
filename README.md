@@ -1,16 +1,26 @@
-### Hi there 👋
+# **Hi, I'm Leandro** 👩‍💻 👋 
 
-<!--
-**LeandroDatabase/LeandroDatabase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I? 
 
-Here are some ideas to get you started:
+* 🧑🏻‍🎓 Técnico em Informática.
+* 🧑🏻‍🎓 Técnologo em Banco de Dados.
+* 👩‍💻 Ciência de Dados(Andamento).
+* 📊 Consultor de Negócios.
+* 👨🏻‍💻 Analista de Inteligência de Negócios (BI).
+* 👨🏻‍💻 Analista de Dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 👩‍💻
+
+* 🗄 SQL.
+* 🧮 Power BI.
+* 📊 Visualização de Dados
+* 🧪 Geração de Insights.
+
+## Find me around the world :earth_americas:
+
+*  [Linkedin](https://www.linkedin.com/in/leandrobsluiz/)
+
+
+
+
+
