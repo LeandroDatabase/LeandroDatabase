@@ -16,7 +16,7 @@
 
 ## Skills 👩‍💻
 
-* 👨🏻‍💻 Aprendendo Ciência de Dados - I'm currently learning Data Science
+* 👨🏻‍💻 Aprendendo Ciência de Dados - I'm currently learning Data Science.
  
 * 📈 Excel.
  
