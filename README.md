@@ -40,5 +40,5 @@
 
 ## Find me around the world :earth_americas:
 
-*  [Linkedin](https://www.linkedin.com/in/leandrobsluiz/)
+* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrobsluiz/)](https://www.linkedin.com/in/leandrobsluiz/)
 
