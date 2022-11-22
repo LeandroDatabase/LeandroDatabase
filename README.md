@@ -14,7 +14,7 @@
  
 * 👨🏻‍💻 Analista de Dados - Data Analyst.
 
-## Skills 👩‍💻
+## Skills 👨🏻‍💻
 
 * 👨🏻‍💻 Aprendendo Ciência de Dados - I'm currently learning Data Science.
  
