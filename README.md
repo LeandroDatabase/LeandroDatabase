@@ -30,7 +30,7 @@
  
 * 🎬 Storytelling with Data.
 
-🧠 Critical thinking and Problem-solving.
+* 🧠 Critical thinking and Problem-solving.
 
 ## My Data Visualization Projects 📊 :chart_with_downwards_trend:
   
